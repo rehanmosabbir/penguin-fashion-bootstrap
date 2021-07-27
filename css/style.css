@@ -1,3 +1,7 @@
 header {
   background-color: #fffbf0;
 }
+.penguin-btn-success {
+  background: linear-gradient(180deg, #a4bc46 0%, #85a019 100%);
+  color: #fff;
+}
