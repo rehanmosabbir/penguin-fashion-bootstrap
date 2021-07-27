@@ -5,3 +5,11 @@ header {
   background: linear-gradient(180deg, #a4bc46 0%, #85a019 100%);
   color: #fff;
 }
+.penguin-card {
+  background: #ffffff;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+  border-radius: 20px;
+}
+.card {
+  border: 0px solid;
+}
