@@ -17,3 +17,9 @@ header {
 .card {
   border: 0px solid;
 }
+
+@media only screen and (max-width: 576px) {
+  .navbar-brand img {
+    width: 170px;
+  }
+}
